@@ -18,7 +18,6 @@ Here are some ideas to get you started:
  <br>
 <a href="mailto:tuyizereanastase1@gmail.com?subject=subject&cc=cc@example.com">  <img src="https://img.shields.io/badge/-Gmail-0098D6?style=flat-square&logo=gmail&logoColor=red" alt="website"/></a>
 <br>
-<br>
 <a href="https://www.linkedin.com/in/anastase-tuyizere-b0a8751a9/">  <img src="https://img.shields.io/badge/-LinkedIn-0098D6?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
 <br>
 <a href="https://www.twitter.com/tuyizereanasta3"><img src="https://img.shields.io/badge/-Twitter-007ACC?style=flat-square&logo=twitter&logoColor=white" alt="website"/></a> 
