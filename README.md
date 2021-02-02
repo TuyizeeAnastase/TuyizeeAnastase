@@ -33,7 +33,7 @@ I' m Anastase TUYIZERE Software Engineer currently based in Kigali/Rwanda
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyizeeAnastase&layout=compact&cache_seconds=86400&theme=dark" alt="Tuyizere" /></p>
 
 <br>
-### 📩 How to reach me:
+### 📫 How to reach me:
  
  <br>
 <a href="mailto:tuyizereanastase1@gmail.com?subject=subject&cc=cc@example.com">  <img src="https://img.shields.io/badge/-Gmail-0098D6?style=flat-square&logo=gmail&logoColor=red" alt="website"/></a>
