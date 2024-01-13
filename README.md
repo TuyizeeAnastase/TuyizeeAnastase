@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I' m Anastase TUYIZERE Software Engineer currently based in Kigali/Rwanda
 
 <br>
 
