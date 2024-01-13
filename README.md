@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TuyizeeAnastase&cache_seconds=86400&theme=dark" alt="Tuyizere" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyizeeAnastase&layout=compact&cache_seconds=86400&theme=dark" alt="Tuyizere" /></p>
 
